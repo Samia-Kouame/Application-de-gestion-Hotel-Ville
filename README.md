@@ -17,7 +17,9 @@ L'objectif de ce projet est de créer une plateforme de gestion centralisée pou
 
 - **Suppression d'une Ville:**
   - Les utilisateurs peuvent supprimer une ville existante.
- [screen-capture (9).webm](https://github.com/Samia-Kouame/Application-de-gestion-Hotel-Ville/assets/147660832/9e0d95c9-76f8-479b-acc3-dc041c785a36)
+
+ [screen-capture (9).webm](https://github.com/Samia-Kouame/Application-de-gestion-Hotel-Ville/assets/147660832/5bcee5e2-8bc7-441b-ab2d-81ee4995695c)
+
 
     
 
@@ -55,13 +57,6 @@ L'objectif de ce projet est de créer une plateforme de gestion centralisée pou
 ## Déploiement sur WildFly
 
 1. Démarrez WildFly.
-2. Construisez et déployez l'application avec Maven:
-
-   ```bash
-   mvn clean install
-   cp target/nom-du-projet.war WILDFLY_HOME/standalone/deployments/
-
-   ## Accés à l'application:
-   Une fois déployée, accédez à l'application via:
-   [http://localhost:8084/ISICEJBWeb/VilleController]
-   
+2. Construisez et déployez l'application avec Maven
+## Auteurs
+KOUAME SAMYA
